@@ -1,5 +1,15 @@
 # 💫 About Me:
-I'm an IT student from the Philippines specializing in Business Analytics. I have hands-on experience. in full-stack web development<br>I’m currently the Sole Developer for a Client Management & Analytics Portal for the Persons with Disability Affairs Office (PDAO).<br>I’m skilled in PHP, JavaScript, and MySQL for web applications and Power BI for data analytics.<br>How to reach me: clarenceneilpamplona@gmail.com<br>
+I'm an IT student from the Philippines with a focus on Business Analytics and full-stack web development. I currently serve as the sole developer of a comprehensive Client Management & Analytics Portal for the Persons with Disability Affairs Office (PDAO), where I handle everything from system architecture to data visualization.
+
+My experience spans both development and analytics:
+
+Web Development: PHP, JavaScript, MySQL, Node.js, and modern UI libraries
+
+Data & Analytics: Power BI, data modeling, dashboarding, and process automation
+
+I’m passionate about building practical, scalable solutions that solve real problems for organizations and communities.
+
+📧 Reach me at: clarenceneilpamplona@gmail.com
 
 
 ## 🌐 Socials:
