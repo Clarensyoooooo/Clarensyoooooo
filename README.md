@@ -10,6 +10,7 @@ Data & Analytics: Power BI, data modeling, dashboarding, and process automation
 I’m passionate about building practical, scalable solutions that solve real problems for organizations and communities.
 
 📧 Reach me at: clarenceneilpamplona@gmail.com
+Portfolio: https://clarencemeneses.vercel.app/
 
 
 ## 🌐 Socials:
