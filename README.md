@@ -26,7 +26,7 @@
 
 <br />
 
-### 🧐 About Me
+### About Me
 I’m passionate about building practical, scalable solutions that solve real problems for organizations and communities. My expertise bridges the gap between web development and data analytics.
 
 * **Web Development:** PHP, JavaScript, MySQL, Node.js, and modern UI libraries.
@@ -34,7 +34,7 @@ I’m passionate about building practical, scalable solutions that solve real pr
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -80,7 +80,7 @@ I’m passionate about building practical, scalable solutions that solve real pr
 
 <br />
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Clarensyoooooo&theme=dark&hide_border=false" height="150" alt="streak graph"  />
