@@ -1,7 +1,4 @@
 # 💫 About Me:
-I'm an IT student from the Philippines with a focus on Business Analytics and full-stack web development. I currently serve as the sole developer of a comprehensive Client Management & Analytics Portal for the Persons with Disability Affairs Office (PDAO), where I handle everything from system architecture to data visualization.
-
-My experience spans both development and analytics:
 
 Web Development: PHP, JavaScript, MySQL, Node.js, and modern UI libraries
 
@@ -23,7 +20,5 @@ Portfolio: https://clarencemeneses.vercel.app/
 ![](https://nirzak-streak-stats.vercel.app/?user=Clarensyoooooo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Clarensyoooooo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Clarensyoooooo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
