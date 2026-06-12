@@ -1,10 +1,7 @@
 <!--
   SETUP NOTES (delete this comment block when done):
   1. Upload header.svg to the root of this profile repo so the image below resolves.
-  2. Rename your GitHub account to a professional handle (Settings > Account > Change username),
-     e.g. clarenceneilmeneses - old links redirect automatically. Then replace every
-     "Clarensyoooooo" below with the new handle.
-  3. Replace the two repo links in Featured Work with your actual repository URLs,
+  2. Replace the two repo links in Featured Work with your actual repository URLs,
      and make sure those repos have a README with screenshots (use dummy data only
      for the PDAO project - never real constituent records).
 -->
@@ -41,8 +38,8 @@ BS Information Technology, Major in Business Analytics - Batangas State Universi
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[PDAO Client Management & Analytics Portal](https://github.com/Clarensyoooooo/pdao-portal)** | Government system that replaced a fully paper-based record office. Digitized 2,000+ constituent records, cut record retrieval from ~20 minutes to under 1 minute, and maps demographics across 30 barangays with a GIS module. Delivered with zero critical defects at turnover after 100+ test cases and UAT. | PHP · MySQL · REST API · GIS |
-| **[Inventory Management System + BI Dashboard](https://github.com/Clarensyoooooo/inventory-bi)** | Internal system tracking 500+ SKUs with automated low-stock alerts and role-based access, paired with a Power BI dashboard fed by SQL queries that turned hours of weekly manual reporting into on-demand insight. | PHP · MySQL · Power BI · SQL |
+| **[PDAO Client Management & Analytics Portal](https://github.com/clarenceneilmeneses/pdao-portal)** | Government system that replaced a fully paper-based record office. Digitized 2,000+ constituent records, cut record retrieval from ~20 minutes to under 1 minute, and maps demographics across 30 barangays with a GIS module. Delivered with zero critical defects at turnover after 100+ test cases and UAT. | PHP · MySQL · REST API · GIS |
+| **[Inventory Management System + BI Dashboard](https://github.com/clarenceneilmeneses/inventory-bi)** | Internal system tracking 500+ SKUs with automated low-stock alerts and role-based access, paired with a Power BI dashboard fed by SQL queries that turned hours of weekly manual reporting into on-demand insight. | PHP · MySQL · Power BI · SQL |
 | **[Portfolio](https://clarencemeneses.vercel.app/)** | Personal site with project case studies and write-ups. | HTML · CSS · JavaScript |
 
 ## Tech Stack
@@ -89,8 +86,8 @@ BS Information Technology, Major in Business Analytics - Batangas State Universi
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clarensyoooooo&show_icons=true&theme=transparent&hide_border=true&title_color=7DD3FC&icon_color=7DD3FC&text_color=94A3B8" height="160" alt="GitHub stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Clarensyoooooo&theme=transparent&hide_border=true&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC" height="160" alt="Streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=clarenceneilmeneses&show_icons=true&theme=transparent&hide_border=true&title_color=7DD3FC&icon_color=7DD3FC&text_color=94A3B8" height="160" alt="GitHub stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=clarenceneilmeneses&theme=transparent&hide_border=true&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC" height="160" alt="Streak stats" />
 </div>
 
 <br />
